@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Network Packet Sniffer
+# 🕵️‍♂️ Network Packet Sniffer 
 
 A real-time network packet sniffer built with **Python** and **Scapy**. This tool captures and analyzes network packets, extracts important header information, and displays protocol-level details—perfect for learning, debugging, and diagnostics.
 
